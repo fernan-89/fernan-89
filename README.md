@@ -1,8 +1,8 @@
 <h3 align="center">Solutions Architect specialized in AWS, focusing on infrastructure, integration and modernization of banking systems</h3>
 
-<h2 align="left">Working in the Information Technology area since 2010, having worked in areas such as help-desk, datacenter, cloud operations and security. Currently working as a solutions architect at the largest bank in Latin America with the mission of designing scalable, resilient solutions, focused on business, modernization and cost reduction.
+<h4 align="left">Working in the Information Technology area since 2010, having worked in areas such as help-desk, datacenter, cloud operations and security. Currently working as a solutions architect at the largest bank in Latin America with the mission of designing scalable, resilient solutions, focused on business, modernization and cost reduction.
 
-Solutions architecture evangelist, dev-sec-ops as an engineering discipline.</h2>
+Solutions architecture evangelist, dev-sec-ops as an engineering discipline.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
