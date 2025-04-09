@@ -1,4 +1,4 @@
-<h3 align="center">Solutions Architect specialized in AWS, focusing on infrastructur and modernization of banking systems</h3>
+<h3 align="center">Solutions Architect specialized in AWS, focusing on infrastructure, integration and modernization of banking systems</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
