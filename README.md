@@ -68,4 +68,4 @@ I specialize in designing scalable, resilient, and business-aligned architecture
 
 **Networking & Security**  
 ![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-C81326?style=for-the-badge&logo=fortinet&logoColor=whit
+![Fortinet](https://img.shields.io/badge/Fortinet-C81326?style=for-the-badge&logo=fortinet&logoColor=white)
