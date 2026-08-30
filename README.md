@@ -29,14 +29,19 @@ I specialize in designing scalable, resilient, and business-aligned architecture
 * **Technical Support & Service Desk (2010 - 2015):** Built a solid IT foundation troubleshooting endpoints, networks, and Windows/Linux server environments at UOLDIVEO, todo!, and Connectcom.
 
 ---
-
-### Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Micronaut](https://img.shields.io/badge/Micronaut-000000.svg?style=for-the-badge&logo=micronaut&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Architecture, Modeling & Governance**  
+![C4 Model](https://img.shields.io/badge/C4%20Model-%23111111.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Structurizr](https://img.shields.io/badge/Structurizr-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+![Draw.io](https://img.shields.io/badge/draw.io-%23F08705.svg?style=for-the-badge&logo=draw.io&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Visio-%233955A3.svg?style=for-the-badge&logo=microsoftvisio&logoColor=white)
 
 **Cloud, Containers & AI**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -50,8 +55,8 @@ I specialize in designing scalable, resilient, and business-aligned architecture
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) 
 
 **Observability & Monitoring**  
 ![ElasticStack](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) 
