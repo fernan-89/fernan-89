@@ -1,15 +1,13 @@
-**GitHub Profile README.md**
-
 # Hello! I'm Andre Silva, Solutions Architect & Staff Engineer
 
 I specialize in designing scalable, resilient, and business-aligned architectures. With a background spanning from help-desk and datacenter operations to leading Cloud Ops teams, I approach system architecture as a rigorous engineering discipline. My mission is to drive modernization, manage technical debt, and build fault-tolerant distributed systems.
 
 **Current Focus & Expertise**
 * **Solutions Architecture:** Designing integration architectures across distributed systems, mainframes, and hybrid environments including On-Premises, AWS, and OpenShift.
-* **Modern Development:** Currently focused on building lightweight, high-performance microservices using Java and Micronaut, alongside Domain-Driven Design (DDD) practices.
+* **Modern Development:** Currently focused on building lightweight, high-performance microservices using Java 21, Micronaut, and Project Reactor, alongside Domain-Driven Design (DDD) practices.
 * **Engineering Culture:** Evangelizing architecture as code and guiding developers toward agile, incremental, and secure software deliveries (Dev-Sec-Ops).
-* **Observability & Reliability:** Defining advanced monitoring strategies and ensuring systems are designed to fail and evolve safely.
-* **Al & Innovation:** Utilizing Generative AI, Anthropic's Claude, and prompt engineering to develop software solutions and build multi-agent systems.
+* **Observability & Reliability:** Defining advanced monitoring strategies, OpenTelemetry tracking, reactive MDC bridging, and SRE forensics to ensure seamless and resilient customer journeys.
+* **AI & Innovation:** Utilizing Generative AI, Anthropic's Claude, and prompt engineering to develop software solutions, build multi-agent systems, and engineer mission-critical microservices like the Thinklab Hash Service.
 
 **Certifications & Academic Background**
 * Postgraduate Degree in Software Architecture and Solutions from Instituto de Gestão e Tecnologia da Informação (IGTI).
@@ -32,7 +30,7 @@ I specialize in designing scalable, resilient, and business-aligned architecture
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
