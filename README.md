@@ -32,7 +32,7 @@ I specialize in designing scalable, resilient, and business-aligned architecture
 
 ---
 
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -43,11 +43,14 @@ I specialize in designing scalable, resilient, and business-aligned architecture
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
-**Infrastructure as Code & Automation**  
+**Infrastructure as Code, CI/CD & Automation**  
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -69,3 +72,8 @@ I specialize in designing scalable, resilient, and business-aligned architecture
 **Networking & Security**  
 ![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-C81326?style=for-the-badge&logo=fortinet&logoColor=white)
+
+**Home Lab & Hardware**  
+![Home Lab](https://img.shields.io/badge/Home%20Lab-20232A?style=for-the-badge&logo=serverless&logoColor=white)
+![Home Servers](https://img.shields.io/badge/Home%20Servers-4D4D4D?style=for-the-badge&logo=baremetalsolution&logoColor=white)
+![ThinkPad](https://img.shields.io/badge/ThinkPad-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
