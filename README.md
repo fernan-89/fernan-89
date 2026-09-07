@@ -22,14 +22,14 @@ I specialize in designing scalable, resilient, and business-aligned architecture
 * Certified in Leading SAFe 4.5 LiveLessons with a strong focus on team leadership and navigating uncertainty.
 
 **Career Journey**
-* **Senior Solutions Architect @ Itaú Unibanco (2021 - Present):** Leading technical modernization, architectural validations, and secure software development practices across LATAM operations, including Credit Recovery and International Units.
+* **Senior Solutions Architect @ Itaú Unibanco (2021 - Present):** Leading technical modernization, architectural validations, and secure software development practices across LATAM operations, including Credit Recovery, International Units, and Pricing & Customer Engagement PJ.
 * **Cloud Ops Team Leader / Analyst @ BRLink (2019 - 2021):** Managed AWS environments, implemented Infrastructure as Code, automated operational routines, and established deep observability practices.
 * **Senior IT Infrastructure Analyst @ ST IT (2019):** Handled AWS architecture implementation, Docker containers, and Elastic Stack monitoring.
 * **IT Infrastructure & NOC (2015 - 2019):** Managed high-availability datacenter operations, VMware clustering, networking, and comprehensive monitoring with Zabbix and Grafana for companies like Lojas Torra and Full Service Informática Comercial.
 * **Technical Support & Service Desk (2010 - 2015):** Built a solid IT foundation troubleshooting endpoints, networks, and Windows/Linux server environments at UOLDIVEO, todo!, and Connectcom.
 
 ---
-###  Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
