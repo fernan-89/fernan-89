@@ -47,7 +47,7 @@ Every service uses Java 21, Micronaut 4, Project Reactor, hexagonal architecture
 | [hardware-collection](https://github.com/fernan-89/hardware-collection) | 500+ synthetic enterprise IT asset records (hardware, cloud, software, governance) | JSON |
 | [xencelabs-quick-keys](https://github.com/fernan-89/xencelabs-quick-keys) | Macro-pad profiles for development (IntelliJ, DataGrip) and gaming | Config |
 
-> ThinkLab code is **source-available for reading only** under a proprietary license (all rights reserved). Tools are MIT unless stated otherwise.
+> All repositories are licensed under the [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0): you may read and use them for **noncommercial purposes only**; modification, redistribution and commercial use require a separate license.
 
 ### 🧭 Career
 - **Senior Solutions Architect** @ Itaú Unibanco (2021 – present) — modernization, architecture reviews and DevSecOps for Credit Recovery, International Units and PJ Pricing & Customer Engagement.
@@ -102,7 +102,7 @@ Todos os serviços usam Java 21, Micronaut 4, Project Reactor, arquitetura hexag
 | [hardware-collection](https://github.com/fernan-89/hardware-collection) | Mais de 500 registros sintéticos de ativos de TI corporativos (hardware, cloud, software, governança) | JSON |
 | [xencelabs-quick-keys](https://github.com/fernan-89/xencelabs-quick-keys) | Perfis de macro pad para desenvolvimento (IntelliJ, DataGrip) e jogos | Config |
 
-> O código do ThinkLab é **aberto apenas para leitura**, sob licença proprietária (todos os direitos reservados). As ferramentas usam MIT, salvo indicação em contrário.
+> Todos os repositórios usam a [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0): podem ser consultados e usados **apenas para fins não comerciais**; modificação, redistribuição e uso comercial exigem uma licença específica.
 
 ### 🧭 Carreira
 - **Arquiteto de Soluções Sênior** @ Itaú Unibanco (2021 – atual) — modernização, validações arquiteturais e DevSecOps em Recuperação de Crédito, Unidades Internacionais e Pricing & Engajamento de Clientes PJ.
