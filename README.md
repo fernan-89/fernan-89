@@ -24,15 +24,30 @@ On GitHub I keep a hands-on lab: **ThinkLab**, a platform of reactive microservi
 
 ### 📌 Featured projects
 
-| Project | What it is | Stack |
+#### ThinkLab — BIAN-aligned reactive microservices platform
+Every service uses Java 21, Micronaut 4, Project Reactor, hexagonal architecture, ADRs and distroless non-root images.
+
+| Repository | What it is | Highlights |
 | :--- | :--- | :--- |
-| [micronaut-hash-token-registry-service](https://github.com/fernan-89/micronaut-hash-token-registry-service) | Cryptographic hash-token lifecycle and forensic audit service | Java 21 · Micronaut · Reactor · MongoDB · OTel |
-| [micronaut-party-reference-data-directory-service](https://github.com/fernan-89/micronaut-party-reference-data-directory-service) | BIAN *Party Reference Data Directory*: organisations, units, contacts and billing | Java 21 · Micronaut · Reactor · MongoDB |
-| [home-lab-scripts](https://github.com/fernan-89/home-lab-scripts) | Paired PowerShell + Bash utilities for networking, inventory, Git, Docker and Terraform | PowerShell · Bash · Terraform · Docker |
+| [thinklab-platform](https://github.com/fernan-89/thinklab-platform) | Local stack, end-to-end runner and cross-service docs that tie the platform together | Docker Compose · PowerShell · Postman |
+| [thinklab-service-kit](https://github.com/fernan-89/thinklab-service-kit) | Shared kit: W3C tracing, Reactor MDC bridge, health warm-up, transactional outbox → NATS JetStream | Java 21 · Micronaut · NATS |
+| [micronaut-platform-gateway-service](https://github.com/fernan-89/micronaut-platform-gateway-service) | Single public entry point: routing by BIAN service domain, rate limiting, bearer-token verification | Java 21 · Micronaut · Reactor |
+| [micronaut-hash-token-registry-service](https://github.com/fernan-89/micronaut-hash-token-registry-service) | Sovereign identity: cryptographic hash-token lifecycle with forensic audit | MongoDB · OpenTelemetry |
+| [micronaut-party-authentication-service](https://github.com/fernan-89/micronaut-party-authentication-service) | Tenant-scoped user IAM: credentials, sessions and JWT rotation | JWT · MongoDB |
+| [micronaut-party-reference-data-directory-service](https://github.com/fernan-89/micronaut-party-reference-data-directory-service) | Organisations, units, contacts and billing | MongoDB |
+| [micronaut-it-asset-registry-service](https://github.com/fernan-89/micronaut-it-asset-registry-service) | IT asset inventory lifecycle with an immutable audit ledger | MongoDB |
+| [micronaut-it-operation-window-service](https://github.com/fernan-89/micronaut-it-operation-window-service) | Maintenance-window scheduling with collision and impact detection | MongoDB |
+| [micronaut-notification-dispatch-service](https://github.com/fernan-89/micronaut-notification-dispatch-service) | Event-driven notification delivery from platform domain events | NATS JetStream · MongoDB |
+
+#### Tools & home lab
+
+| Repository | What it is | Highlights |
+| :--- | :--- | :--- |
+| [home-lab-scripts](https://github.com/fernan-89/home-lab-scripts) | Paired PowerShell + Bash utilities for networking, inventory, Git, Docker and Terraform | PowerShell · Bash · Terraform |
 | [hardware-collection](https://github.com/fernan-89/hardware-collection) | 500+ synthetic enterprise IT asset records (hardware, cloud, software, governance) | JSON |
 | [xencelabs-quick-keys](https://github.com/fernan-89/xencelabs-quick-keys) | Macro-pad profiles for development (IntelliJ, DataGrip) and gaming | Config |
 
-Other ThinkLab services (gateway, authentication, notification dispatch, IT asset registry, IT operation window and a shared service kit) are private for now.
+> ThinkLab code is **source-available for reading only** under a proprietary license (all rights reserved). Tools are MIT unless stated otherwise.
 
 ### 🧭 Career
 - **Senior Solutions Architect** @ Itaú Unibanco (2021 – present) — modernization, architecture reviews and DevSecOps for Credit Recovery, International Units and PJ Pricing & Customer Engagement.
@@ -64,15 +79,30 @@ Aqui no GitHub mantenho um laboratório prático: **ThinkLab**, uma plataforma d
 
 ### 📌 Projetos em destaque
 
-| Projeto | O que é | Stack |
+#### ThinkLab — plataforma de microsserviços reativos alinhada ao BIAN
+Todos os serviços usam Java 21, Micronaut 4, Project Reactor, arquitetura hexagonal, ADRs e imagens distroless non-root.
+
+| Repositório | O que é | Destaques |
 | :--- | :--- | :--- |
-| [micronaut-hash-token-registry-service](https://github.com/fernan-89/micronaut-hash-token-registry-service) | Ciclo de vida de tokens de hash criptográficos com auditoria forense | Java 21 · Micronaut · Reactor · MongoDB · OTel |
-| [micronaut-party-reference-data-directory-service](https://github.com/fernan-89/micronaut-party-reference-data-directory-service) | BIAN *Party Reference Data Directory*: organizações, unidades, contatos e faturamento | Java 21 · Micronaut · Reactor · MongoDB |
-| [home-lab-scripts](https://github.com/fernan-89/home-lab-scripts) | Utilitários em pares PowerShell + Bash para rede, inventário, Git, Docker e Terraform | PowerShell · Bash · Terraform · Docker |
+| [thinklab-platform](https://github.com/fernan-89/thinklab-platform) | Pilha local, runner end-to-end e documentação transversal que integram a plataforma | Docker Compose · PowerShell · Postman |
+| [thinklab-service-kit](https://github.com/fernan-89/thinklab-service-kit) | Kit compartilhado: tracing W3C, ponte MDC no Reactor, warm-up de health, outbox transacional → NATS JetStream | Java 21 · Micronaut · NATS |
+| [micronaut-platform-gateway-service](https://github.com/fernan-89/micronaut-platform-gateway-service) | Ponto único de entrada: roteamento por service domain BIAN, rate limiting e verificação de bearer token | Java 21 · Micronaut · Reactor |
+| [micronaut-hash-token-registry-service](https://github.com/fernan-89/micronaut-hash-token-registry-service) | Identidade soberana: ciclo de vida de tokens de hash criptográficos com auditoria forense | MongoDB · OpenTelemetry |
+| [micronaut-party-authentication-service](https://github.com/fernan-89/micronaut-party-authentication-service) | IAM de usuários por tenant: credenciais, sessões e rotação de JWT | JWT · MongoDB |
+| [micronaut-party-reference-data-directory-service](https://github.com/fernan-89/micronaut-party-reference-data-directory-service) | Organizações, unidades, contatos e faturamento | MongoDB |
+| [micronaut-it-asset-registry-service](https://github.com/fernan-89/micronaut-it-asset-registry-service) | Ciclo de vida do inventário de ativos de TI com ledger de auditoria imutável | MongoDB |
+| [micronaut-it-operation-window-service](https://github.com/fernan-89/micronaut-it-operation-window-service) | Agendamento de janelas de manutenção com detecção de colisão e impacto | MongoDB |
+| [micronaut-notification-dispatch-service](https://github.com/fernan-89/micronaut-notification-dispatch-service) | Envio de notificações orientado a eventos de domínio da plataforma | NATS JetStream · MongoDB |
+
+#### Ferramentas e home lab
+
+| Repositório | O que é | Destaques |
+| :--- | :--- | :--- |
+| [home-lab-scripts](https://github.com/fernan-89/home-lab-scripts) | Utilitários em pares PowerShell + Bash para rede, inventário, Git, Docker e Terraform | PowerShell · Bash · Terraform |
 | [hardware-collection](https://github.com/fernan-89/hardware-collection) | Mais de 500 registros sintéticos de ativos de TI corporativos (hardware, cloud, software, governança) | JSON |
 | [xencelabs-quick-keys](https://github.com/fernan-89/xencelabs-quick-keys) | Perfis de macro pad para desenvolvimento (IntelliJ, DataGrip) e jogos | Config |
 
-Os demais serviços do ThinkLab (gateway, autenticação, envio de notificações, registro de ativos de TI, janelas de operação e um service kit compartilhado) estão privados por enquanto.
+> O código do ThinkLab é **aberto apenas para leitura**, sob licença proprietária (todos os direitos reservados). As ferramentas usam MIT, salvo indicação em contrário.
 
 ### 🧭 Carreira
 - **Arquiteto de Soluções Sênior** @ Itaú Unibanco (2021 – atual) — modernização, validações arquiteturais e DevSecOps em Recuperação de Crédito, Unidades Internacionais e Pricing & Engajamento de Clientes PJ.
