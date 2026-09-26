@@ -1,35 +1,96 @@
-# Hello! I'm Andre Silva, Solutions Architect & Staff Engineer
+<div align="center">
 
-I specialize in designing scalable, resilient, and business-aligned architectures. With a background spanning from help-desk and datacenter operations to leading Cloud Ops teams, I approach system architecture as a rigorous engineering discipline. My mission is to drive modernization, manage technical debt, and build fault-tolerant distributed systems.
+# Andre Silva
 
-**Current Focus & Expertise**
-* **Solutions Architecture:** Designing integration architectures across distributed systems, mainframes, and hybrid environments including On-Premises, AWS, and OpenShift.
-* **Modern Development:** Currently focused on building lightweight, high-performance microservices using Java 21, Micronaut, and Project Reactor, alongside Domain-Driven Design (DDD) practices.
-* **Engineering Culture:** Evangelizing architecture as code and guiding developers toward agile, incremental, and secure software deliveries (Dev-Sec-Ops).
-* **Observability & Reliability:** Defining advanced monitoring strategies, OpenTelemetry tracking, reactive MDC bridging, and SRE forensics to ensure seamless and resilient customer journeys.
-* **AI & Innovation:** Utilizing Generative AI, Anthropic's Claude, and prompt engineering to develop software solutions, build multi-agent systems, and engineer mission-critical microservices like the Thinklab Hash Service.
+**Solutions Architect · Staff Engineer · Cloud & Distributed Systems**
 
-**Certifications & Academic Background**
-* Postgraduate Degree in Software Architecture and Solutions from Instituto de Gestão e Tecnologia da Informação (IGTI).
-* Bachelor's Degree in Information Technology from Centro Universitário Nove de Julho.
-* AWS Certified Solutions Architect - Associate.
-* AWS Certified Security - Specialty.
-* AWS Certified Cloud Practitioner.
-* Arquitetura de Soluções Foundation and Associate Privacy Champion credentials from Itaú Unibanco.
-* Lifelong Learning badge from Certiprof for an unwavering commitment to continuous development.
-* Extensive O'Reilly Media training including Software Architecture Fundamentals, Designing Distributed Systems, Cloud Native Architecture, and Practical Docker.
-* Specialized coursework in Generative AI at Work, Claude Architect Foundations, and Architecture as Code.
-* Certified in Leading SAFe 4.5 LiveLessons with a strong focus on team leadership and navigating uncertainty.
+🇺🇸 [English](#-english) · 🇧🇷 [Português](#-português)
 
-**Career Journey**
-* **Senior Solutions Architect @ Itaú Unibanco (2021 - Present):** Leading technical modernization, architectural validations, and secure software development practices across LATAM operations, including Credit Recovery, International Units, and Pricing & Customer Engagement PJ.
-* **Cloud Ops Team Leader / Analyst @ BRLink (2019 - 2021):** Managed AWS environments, implemented Infrastructure as Code, automated operational routines, and established deep observability practices.
-* **Senior IT Infrastructure Analyst @ ST IT (2019):** Handled AWS architecture implementation, Docker containers, and Elastic Stack monitoring.
-* **IT Infrastructure & NOC (2015 - 2019):** Managed high-availability datacenter operations, VMware clustering, networking, and comprehensive monitoring with Zabbix and Grafana for companies like Lojas Torra and Full Service Informática Comercial.
-* **Technical Support & Service Desk (2010 - 2015):** Built a solid IT foundation troubleshooting endpoints, networks, and Windows/Linux server environments at UOLDIVEO, todo!, and Connectcom.
+</div>
 
 ---
-### Tech Stack & Tools
+
+## 🇺🇸 English
+
+I design scalable, resilient, business-aligned architectures. My path runs from help desk and datacenter operations to leading Cloud Ops teams and, since 2021, **Senior Solutions Architect at Itaú Unibanco**, where I drive modernization, architectural governance and secure delivery across LATAM units.
+
+On GitHub I keep a hands-on lab: **ThinkLab**, a platform of reactive microservices modeled after the **BIAN** (Banking Industry Architecture Network) service domains, plus automation and data tooling for my home lab.
+
+### 🔭 What I'm working on
+- **ThinkLab Platform** — Java 21 + Micronaut 4 + Project Reactor microservices using hexagonal architecture, DDD and BIAN behavior qualifiers (`initiate`, `retrieve`, `update`, `control`).
+- **Observability & reliability** — OpenTelemetry / W3C Trace Context, reactive MDC bridging and SRE forensics.
+- **Secure by default** — distroless non-root images, read-only filesystems, AOT builds and Kubernetes / OpenShift manifests.
+- **AI-assisted engineering** — building software and multi-agent workflows with Anthropic's Claude and prompt engineering.
+
+### 📌 Featured projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [micronaut-hash-token-registry-service](https://github.com/fernan-89/micronaut-hash-token-registry-service) | Cryptographic hash-token lifecycle and forensic audit service | Java 21 · Micronaut · Reactor · MongoDB · OTel |
+| [micronaut-party-reference-data-directory-service](https://github.com/fernan-89/micronaut-party-reference-data-directory-service) | BIAN *Party Reference Data Directory*: organisations, units, contacts and billing | Java 21 · Micronaut · Reactor · MongoDB |
+| [home-lab-scripts](https://github.com/fernan-89/home-lab-scripts) | Paired PowerShell + Bash utilities for networking, inventory, Git, Docker and Terraform | PowerShell · Bash · Terraform · Docker |
+| [hardware-collection](https://github.com/fernan-89/hardware-collection) | 500+ synthetic enterprise IT asset records (hardware, cloud, software, governance) | JSON |
+| [xencelabs-quick-keys](https://github.com/fernan-89/xencelabs-quick-keys) | Macro-pad profiles for development (IntelliJ, DataGrip) and gaming | Config |
+
+Other ThinkLab services (gateway, authentication, notification dispatch, IT asset registry, IT operation window and a shared service kit) are private for now.
+
+### 🧭 Career
+- **Senior Solutions Architect** @ Itaú Unibanco (2021 – present) — modernization, architecture reviews and DevSecOps for Credit Recovery, International Units and PJ Pricing & Customer Engagement.
+- **Cloud Ops Team Leader / Analyst** @ BRLink (2019 – 2021) — AWS operations, Infrastructure as Code, automation and observability.
+- **Senior IT Infrastructure Analyst** @ ST IT (2019) — AWS, Docker and Elastic Stack.
+- **IT Infrastructure & NOC** (2015 – 2019) — high-availability datacenters, VMware, networking, Zabbix and Grafana.
+- **Technical Support & Service Desk** (2010 – 2015) — UOLDIVEO, todo! and Connectcom.
+
+### 🎓 Education & certifications
+- Postgraduate in Software Architecture and Solutions — IGTI
+- B.Sc. in Information Technology — Centro Universitário Nove de Julho
+- AWS Certified **Security – Specialty** · **Solutions Architect – Associate** · **Cloud Practitioner**
+- Itaú Unibanco: Solutions Architecture Foundation · Associate Privacy Champion
+- Leading SAFe 4.5 · O'Reilly (Software Architecture, Distributed Systems, Cloud Native, Docker) · Generative AI at Work · Claude Architect Foundations · Architecture as Code
+
+---
+
+## 🇧🇷 Português
+
+Projeto arquiteturas escaláveis, resilientes e alinhadas ao negócio. Minha trajetória vai do help desk e operação de datacenter à liderança de times de Cloud Ops e, desde 2021, **Arquiteto de Soluções Sênior no Itaú Unibanco**, onde conduzo modernização, governança arquitetural e entrega segura em unidades da América Latina.
+
+Aqui no GitHub mantenho um laboratório prático: **ThinkLab**, uma plataforma de microsserviços reativos modelada a partir dos service domains do **BIAN** (Banking Industry Architecture Network), além de ferramentas de automação e dados para o meu home lab.
+
+### 🔭 No que estou trabalhando
+- **Plataforma ThinkLab** — microsserviços em Java 21 + Micronaut 4 + Project Reactor com arquitetura hexagonal, DDD e behavior qualifiers do BIAN (`initiate`, `retrieve`, `update`, `control`).
+- **Observabilidade e confiabilidade** — OpenTelemetry / W3C Trace Context, propagação de MDC em fluxos reativos e forense de SRE.
+- **Seguro por padrão** — imagens distroless non-root, filesystem somente leitura, builds AOT e manifestos Kubernetes / OpenShift.
+- **Engenharia assistida por IA** — desenvolvimento de software e fluxos multiagentes com o Claude, da Anthropic, e engenharia de prompts.
+
+### 📌 Projetos em destaque
+
+| Projeto | O que é | Stack |
+| :--- | :--- | :--- |
+| [micronaut-hash-token-registry-service](https://github.com/fernan-89/micronaut-hash-token-registry-service) | Ciclo de vida de tokens de hash criptográficos com auditoria forense | Java 21 · Micronaut · Reactor · MongoDB · OTel |
+| [micronaut-party-reference-data-directory-service](https://github.com/fernan-89/micronaut-party-reference-data-directory-service) | BIAN *Party Reference Data Directory*: organizações, unidades, contatos e faturamento | Java 21 · Micronaut · Reactor · MongoDB |
+| [home-lab-scripts](https://github.com/fernan-89/home-lab-scripts) | Utilitários em pares PowerShell + Bash para rede, inventário, Git, Docker e Terraform | PowerShell · Bash · Terraform · Docker |
+| [hardware-collection](https://github.com/fernan-89/hardware-collection) | Mais de 500 registros sintéticos de ativos de TI corporativos (hardware, cloud, software, governança) | JSON |
+| [xencelabs-quick-keys](https://github.com/fernan-89/xencelabs-quick-keys) | Perfis de macro pad para desenvolvimento (IntelliJ, DataGrip) e jogos | Config |
+
+Os demais serviços do ThinkLab (gateway, autenticação, envio de notificações, registro de ativos de TI, janelas de operação e um service kit compartilhado) estão privados por enquanto.
+
+### 🧭 Carreira
+- **Arquiteto de Soluções Sênior** @ Itaú Unibanco (2021 – atual) — modernização, validações arquiteturais e DevSecOps em Recuperação de Crédito, Unidades Internacionais e Pricing & Engajamento de Clientes PJ.
+- **Líder / Analista de Cloud Ops** @ BRLink (2019 – 2021) — operação AWS, Infraestrutura como Código, automação e observabilidade.
+- **Analista de Infraestrutura de TI Sênior** @ ST IT (2019) — AWS, Docker e Elastic Stack.
+- **Infraestrutura de TI & NOC** (2015 – 2019) — datacenters de alta disponibilidade, VMware, redes, Zabbix e Grafana.
+- **Suporte Técnico & Service Desk** (2010 – 2015) — UOLDIVEO, todo! e Connectcom.
+
+### 🎓 Formação e certificações
+- Pós-graduação em Arquitetura de Software e Soluções — IGTI
+- Bacharelado em Tecnologia da Informação — Centro Universitário Nove de Julho
+- AWS Certified **Security – Specialty** · **Solutions Architect – Associate** · **Cloud Practitioner**
+- Itaú Unibanco: Arquitetura de Soluções Foundation · Associate Privacy Champion
+- Leading SAFe 4.5 · O'Reilly (Arquitetura de Software, Sistemas Distribuídos, Cloud Native, Docker) · Generative AI at Work · Claude Architect Foundations · Architecture as Code
+
+---
+
+## 🧰 Tech Stack & Tools / Tecnologias e Ferramentas
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
