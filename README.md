@@ -1,6 +1,6 @@
 <div align="center">
 
-# Andre Silva
+# Andre Fernandes
 
 **Solutions Architect · Staff Engineer · Cloud & Distributed Systems**
 
